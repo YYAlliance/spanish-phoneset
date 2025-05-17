@@ -29,12 +29,14 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 |m|m|m|m|m|bilabial nasal|--|
 |n|n|n|n|n|alveolar nasal|--|
 |ny|gn/ny|J|J|ɲ|palatal nasal|--|
-|ng|--|N|N|ŋ|velar nasal|--|
+|ng|--|N|N|ŋ|velar nasal|previously realized with [n g] cluster|
 |p|p|p|p|p|voiceless bilabial plosive|--|
 |r|r|4|4|ɾ|alveolar tap|--|
 |rr|rr|r|r|r|alveolar trill|--|
+
+
 slaying consonants
-p r rr s sh t x jj 
+ s sh t x jj 
 
 final girl dialects
 
