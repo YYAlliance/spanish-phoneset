@@ -33,9 +33,9 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 |s|s|s|s|s|voiceless alveolar fricative|--|
 |sh|sh|S|S|ʃ|voiceless postalveolar fricative|allophone for ch in some dialects, also used in loanwords|
 |t|t|t|t|t|voiceless alveolar plosive|--|
-|w|w|w|w|w|labial-velar approximant|--|
+|w|U/w|w|w|w|labial-velar approximant|--|
 |x|x|x|x|x|voiceless velar fricative|--|
-|y|y|j|j|j|voiced palatal approximant|--|
+|y|I/y|j|j|j|voiced palatal approximant|--|
 |jj|Y/ll|jj|j\|ʝ|voiced palatal fricative|--|
 
 ## Dialectal add-on Vowels
