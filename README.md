@@ -83,4 +83,4 @@ These allophones exist phone-wise (as different pronunciations/sounds) but aren'
 |kh|--|k_h|k_h|kʰ|aspirated voiceless velar plosive|colombian spanish /k/ aspiration, label as k|
 
 ## Licensing
-this is free to use, for completely free. just credit @usamireko and @YYA pleeeeease
+this is free to use, for completely free. just credit [@usamireko] (https://www.github.com/usamireko) and YYA pleeeeease
