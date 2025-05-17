@@ -1,5 +1,5 @@
-# Spanish Phonetic Alphabet for AI SINGERS
-Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and earlier systems. This labeling reference aims to cover most dialects, while being based on a mostly-neutral Spanish.
+# New Spanish Phonetic Alphabet Reference
+A new phonetic alphabet solution for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and earlier systems. This labeling reference aims to cover most dialects, while being based on a mostly-neutral Spanish. If you feel like something's missing or is incorrect, hit us up at the issues tab!
 
 ## Core Vowels
 | New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
