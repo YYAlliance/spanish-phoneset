@@ -69,6 +69,7 @@ A new phonetic alphabet solution for Spanish DiffSinger, based on X-SAMPA, local
 |ts|--|ts|ts|ts|voiceless alveolar affricate|andean/chilean spanish ch allophone|
 |h|--|h|h|h|voiceless glottal fricative|central/southern american spanish s aspiration/debuccalization|
 |tl|--|--|tK|tɬ|voiceless alveolar lateral affricate|mexican spanish /tl/ word-final pronunciation|
+|tr|--|ts_r|ts`|tʂ|voiceless retroflex sibilant affricate|/tɾ/ allophone under certain dialects|
 
 ## Minor allophones
 These allophones exist phone-wise (as different pronunciations/sounds) but aren't articulated as their own units to be considered separate phonemes, just regional allophones. Included in the notes are their generalized replacements.
@@ -80,4 +81,6 @@ These allophones exist phone-wise (as different pronunciations/sounds) but aren'
 |ky|--|k_j|k'|kʲ|palatalized voiceless velar plosive|chilean spanish /k/ palatalization before e/i, label as k|
 |gy|--|g_j|g'|gʲ|palatalized voiced velar plosive|chilean spanish /g/ palatalization before e/i, label as g| 
 |kh|--|k_h|k_h|kʰ|aspirated voiceless velar plosive|colombian spanish /k/ aspiration, label as k|
-|tr|--|ts_r|ts`|tʂ|voiceless retroflex sibilant affricate|/tɾ/ allophone under southern dialects, label as [t r]/
+
+## Licensing
+this is free to use, for completely free. just credit @usamisumireko and yya pleeeeease
