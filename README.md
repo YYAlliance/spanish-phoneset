@@ -14,13 +14,13 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 | New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
 |--|--|--|--|--|--|--|
 |b|b|b|b|b|voiced bilabial plosive|--|
-|bh|--|B|B|β|voiced bilabial fricative|intervocalic allophone|
+|bh|B|B|B|β|voiced bilabial fricative|intervocalic allophone|
 |ch|ch|tS|tS|tʃ|voiceless postalveolar affricate |--|
 |d|d|d|d|d|voiced alveolar plosive|--|
-|dh|--|D|D|ð|voiced dental fricative|intervocalic allophone|
+|dh|D|D|D|ð|voiced dental fricative|intervocalic allophone|
 |f|f|f|f|f|voiceless labiodental fricative|--|
 |g|g|g|g|g|voiced velar plosive|--|
-|gh|--|G|G|ɣ|voiced velar fricative|intervocalic allophone|
+|gh|G|G|G|ɣ|voiced velar fricative|intervocalic allophone|
 |k|k|k|k|k|voiceless velar plosive|--|
 |l|l|l|l|l|alveolar lateral approximant|--|
 |m|m|m|m|m|bilabial nasal|--|
