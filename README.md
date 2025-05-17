@@ -15,7 +15,7 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 |--|--|--|--|--|--|--|
 |b|b|b|b|b|voiced bilabial plosive|--|
 |bh|--|B|B|β|voiced bilabial fricative|intervocalic allophone|
-|ch|--|tS|tS|tʃ|voiceless postalveolar affricate |--|
+|ch|ch|tS|tS|tʃ|voiceless postalveolar affricate |--|
 |d|d|d|d|d|voiced alveolar plosive|--|
 |dh|--|D|D|ð|voiced dental fricative|intervocalic allophone|
 |f|f|f|f|f|voiceless labiodental fricative|--|
