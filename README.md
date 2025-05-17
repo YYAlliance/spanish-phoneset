@@ -1,6 +1,18 @@
 # New Spanish Phonetic Alphabet Reference
 A new phonetic alphabet solution for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and earlier systems. This labeling reference aims to cover most dialects, while being based on a mostly-neutral Spanish. If you feel like something's missing or is incorrect, hit us up at the issues tab!
 
+## Generic Phonemes
+| New System | Old System | Phoneme | Notes |
+|--|--|--|--|
+|SP|SP/pau/sil|Silence|DiffSinger standard.|
+|AP|AP/br|Breath|DiffSinger standard.|
+|cl|cl|consonant gemination|used for held consonants|
+|gs|cl/GlottalStop|glottal stop|--|
+|ex|h/hh/exh/Exhale|exhale|used for voiced/unvoiced exhales interchangably|
+|vf|vf/cl/Edge|vocal fry|--|
+|vtrash|trash/vtrash|unusable vowel data|use when something incomprehensible/detrimental to the database is sung|
+|ctrash|trash/ctrash|unusable consonant data|use when something incomprehensible/detrimental to the database is sung|
+
 ## Core Vowels
 | New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
 |--|--|--|--|--|--|--|
