@@ -16,7 +16,9 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 |--|--|--|--|--|--|--|
 |y|y|j|j|j|voiced palatal approximant|--|
 |w|w|w|w|w|labial-velar approximant|--|
-|b|b|b|b|b|labial-velar approximant|--|
+|b|b|b|b|b|voiced bilabial plosive|--|
+|bh|--|B|B|β|voiced bilabial fricative|--|
+
 
 slaying consonants
 b bh ch d dh f g gh k l m n ng ny p r rr s sh t x jj 
