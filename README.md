@@ -12,7 +12,7 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 
 ## Consonants
 
-| New System | Old System | X-SAMPA | PUMABET | IPA | Phoneme | Notes |
+| New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
 |--|--|--|--|--|--|--|
 |y|y|j|j|j|voiced palatal approximant|--|
 |w|w|w|w|w|labial-velar approximant|--|
@@ -24,9 +24,17 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 |f|f|f|f|f|voiceless labiodental fricative|--|
 |g|g|g|g|g|voiced velar plosive|--|
 |gh|--|G|G|ɣ|voiced velar fricative|intervocalic allophone|
-
+|k|k|k|k|k|voiceless velar plosive|--|
+|l|l|l|l|l|alveolar lateral approximant|--|
+|m|m|m|m|m|bilabial nasal|--|
+|n|n|n|n|n|alveolar nasal|--|
+|ny|gn/ny|J|J|ɲ|palatal nasal|--|
+|ng|--|N|N|ŋ|velar nasal|--|
+|p|p|p|p|p|voiceless bilabial plosive|--|
+|r|r|4|4|ɾ|alveolar tap|--|
+|rr|rr|r|r|r|alveolar trill|--|
 slaying consonants
-k l m n ng ny p r rr s sh t x jj 
+p r rr s sh t x jj 
 
 final girl dialects
 
