@@ -1,8 +1,8 @@
 # Spanish Phonetic Alphabet for AI SINGERS
-Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and earlier systems.
+Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and earlier systems. This labeling reference aims to cover most dialects, while being based on a mostly-neutral Spanish.
 
-## Vowels
-| New System | Old System | X-SAMPA | PUMABET | IPA | Phoneme | Notes |
+## Core Vowels
+| New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
 |--|--|--|--|--|--|--|
 |a|a|a|a|a|open front unrounded vowel|--|
 |e|e|e|e|e̞|mid front unrounded vowel|--|
@@ -10,12 +10,9 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 |o|o|o|o|o̞|mid back rounded vowel|--|
 |u|u|u|u|u|close back rounded vowel|--|
 
-## Consonants
-
+## Core Consonants
 | New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
 |--|--|--|--|--|--|--|
-|y|y|j|j|j|voiced palatal approximant|--|
-|w|w|w|w|w|labial-velar approximant|--|
 |b|b|b|b|b|voiced bilabial plosive|--|
 |bh|--|B|B|β|voiced bilabial fricative|intervocalic allophone|
 |ch|--|tS|tS|tʃ|voiceless postalveolar affricate |--|
@@ -33,11 +30,42 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 |p|p|p|p|p|voiceless bilabial plosive|--|
 |r|r|4|4|ɾ|alveolar tap|--|
 |rr|rr|r|r|r|alveolar trill|--|
+|s|s|s|s|s|voiceless alveolar fricative|--|
+|sh|sh|S|S|ʃ|voiceless postalveolar fricative|allophone for ch in some dialects, also used in loanwords|
+|t|t|t|t|t|voiceless alveolar plosive|--|
+|w|w|w|w|w|labial-velar approximant|--|
+|x|x|x|x|x|voiceless velar fricative|--|
+|y|y|j|j|j|voiced palatal approximant|--|
+|jj|Y/ll|jj|j\|ʝ|voiced palatal fricative|--|
 
+## Dialectal add-on Vowels
+| New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
+|--|--|--|--|--|--|--|
+|ax|--|ax|@|ᵊ|mexican spanish vowel devoicing, might be useful on fast segments where no clear vowel is pronounced|
+|ae|--|ae|{|æ|near-open front unrounded vowel|murcian/oriental andaluz vowel-harmony opening|
+|eh|--|E|E|ɛ|open-mid front unrounded vowel|murcian/oriental andaluz vowel-harmony opening|
+|ih|--|I|I|ɪ|near-close front unrounded vowel|murcian/oriental andaluz vowel-harmony opening|
+|oh|--|O|O|ɔ|open-mid back rounded vowel|murcian/oriental andaluz vowel-harmony opening|
+|uh|--|U|U|ʊ|near-close back rounded vowel|murcian/oriental andaluz vowel-harmony opening|
 
-slaying consonants
- s sh t x jj 
+## Dialectal add-on Consonants
+| New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
+|--|--|--|--|--|--|--|
+|ll|Y/ll|L|L|ʎ|palatal lateral approximant|for yeismo ll|
+|z|z|T|T|θ|voiceless dental fricative|peninsular spanish s allophone|
+|zh|--|Z|Z|ʒ|voiced postalveolar fricative|rioplatense spanish y allophone|
+|ts|--|ts|ts|ts|voiceless alveolar affricate|andean/chilean spanish ch allophone|
+|h|--|h|h|h|voiceless glottal fricative|central/southern american spanish s aspiration/debuccalization|
+|tl|--|--|tK|tɬ|voiceless alveolar lateral affricate|mexican spanish /tl/ word-final pronunciation|
 
-final girl dialects
+## Minor allophones
+These allophones exist phone-wise (as different pronunciations/sounds) but aren't articulated as their own units to be considered separate phonemes, just regional allophones. Included in the notes are their generalized replacements.
 
-ll z zh ts h
+| New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
+|--|--|--|--|--|--|--|
+|nj|--|--|n'|nʲ|palatalized alveolar nasal|rioplatense /ɲ/ /nj/ fusion, label as ny|
+|hy|--|C|C|ç|voiceless palatal fricative|chilean spanish /x/ palatalization before e/i, label as x| 
+|ky|--|k_j|k'|kʲ|palatalized voiceless velar plosive|chilean spanish /k/ palatalization before e/i, label as k|
+|gy|--|g_j|g'|gʲ|palatalized voiced velar plosive|chilean spanish /g/ palatalization before e/i, label as g| 
+|kh|--|k_h|k_h|kʰ|aspirated voiceless velar plosive|colombian spanish /k/ aspiration, label as k|
+|tr|--|ts_r|ts`|tʂ|voiceless retroflex sibilant affricate|/tɾ/ allophone under southern dialects, label as [t r]/
