@@ -36,7 +36,7 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 |w|U/w|w|w|w|labial-velar approximant|--|
 |x|x|x|x|x|voiceless velar fricative|--|
 |y|I/y|j|j|j|voiced palatal approximant|--|
-|jj|Y/ll|jj|j\|ʝ|voiced palatal fricative|--|
+|jj|Y/ll|jj|j\\|ʝ|voiced palatal fricative|--|
 
 ## Dialectal add-on Vowels
 | New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
