@@ -1,7 +1,11 @@
 # Spanish Phonetic Alphabet for AI SINGERS
 Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and earlier systems.
 
-phonemes ❤️
+## Vowels
+| BRAPA | X-SAMPA | PUMABET | IPA | Phoneme | Notes |
+|--|--|--|--|--|--|
+|a|a|a|a|open front unrounded vowel|--|
+
 
 cunty vowels
 a e i o u
