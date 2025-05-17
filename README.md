@@ -17,11 +17,16 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 |y|y|j|j|j|voiced palatal approximant|--|
 |w|w|w|w|w|labial-velar approximant|--|
 |b|b|b|b|b|voiced bilabial plosive|--|
-|bh|--|B|B|β|voiced bilabial fricative|--|
-
+|bh|--|B|B|β|voiced bilabial fricative|intervocalic allophone|
+|ch|--|tS|tS|tʃ|voiceless postalveolar affricate |--|
+|d|d|d|d|d|voiced alveolar plosive|--|
+|dh|--|D|D|ð|voiced dental fricative|intervocalic allophone|
+|f|f|f|f|f|voiceless labiodental fricative|--|
+|g|g|g|g|g|voiced velar plosive|--|
+|gh|--|G|G|ɣ|voiced velar fricative|intervocalic allophone|
 
 slaying consonants
-b bh ch d dh f g gh k l m n ng ny p r rr s sh t x jj 
+k l m n ng ny p r rr s sh t x jj 
 
 final girl dialects
 
