@@ -41,7 +41,7 @@ Phonetic alphabet for Spanish DiffSinger, based on X-SAMPA, local SAMPA, and ear
 ## Dialectal add-on Vowels
 | New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
 |--|--|--|--|--|--|--|
-|ax|--|ax|@|ᵊ|mexican spanish vowel devoicing, might be useful on fast segments where no clear vowel is pronounced|
+|ax|--|ax|@|ᵊ|approximately mid central vowel|mexican spanish vowel devoicing, might be useful on fast segments where no clear vowel is pronounced|
 |ae|--|ae|{|æ|near-open front unrounded vowel|murcian/oriental andaluz vowel-harmony opening|
 |eh|--|E|E|ɛ|open-mid front unrounded vowel|murcian/oriental andaluz vowel-harmony opening|
 |ih|--|I|I|ɪ|near-close front unrounded vowel|murcian/oriental andaluz vowel-harmony opening|
