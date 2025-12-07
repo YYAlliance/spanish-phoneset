@@ -82,7 +82,7 @@ These allophones exist phone-wise (as different pronunciations/sounds) but aren'
 |gy|--|g_j|g'|gʲ|palatalized voiced velar plosive|chilean spanish /g/ palatalization before e/i, label as g| 
 |kh|--|k_h|k_h|kʰ|aspirated voiceless velar plosive|colombian spanish /k/ aspiration, label as k|
 |ph|--|p_h|p_h|pʰ|--|colombian spanish /p/ aspiration, label as p|
-|th|--|p_h|p_h|pʰ|--|colombian spanish /t/ aspiration, label as t|
+|th|--|t_h|t_h|tʰ|--|colombian spanish /t/ aspiration, label as t|
 
 ## Licensing
 this is free to use, for completely free. just credit [@usamireko](https://www.github.com/usamireko) and YYA pleeeeease
