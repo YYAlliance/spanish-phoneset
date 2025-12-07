@@ -83,6 +83,7 @@ These allophones exist phone-wise (as different pronunciations/sounds) but aren'
 |kh|--|k_h|k_h|kʰ|aspirated voiceless velar plosive|colombian spanish /k/ aspiration, label as k|
 |ph|--|p_h|p_h|pʰ|--|colombian spanish /p/ aspiration, label as p|
 |th|--|t_h|t_h|tʰ|--|colombian spanish /t/ aspiration, label as t|
+|sr|--|s_r|s|s̺|voiceless apico-alveolar fricative|spanish /s/ realization, label as s
 
 ## Licensing
 this is free to use, for completely free. just credit [@usamireko](https://www.github.com/usamireko) and YYA pleeeeease
