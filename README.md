@@ -74,6 +74,8 @@ A new phonetic alphabet solution for Spanish DiffSinger, based on X-SAMPA, local
 ## Minor allophones
 These allophones exist phone-wise (as different pronunciations/sounds) but aren't articulated as their own units to be considered separate phonemes, just regional allophones. Included in the notes are their generalized replacements.
 
+Note that it is probably a good idea to isolate them when mixing multiple speakers from different regions to prevent accent leakage (eg. keeping all castillian speakers /s/ phonemes as /s_a/).
+
 | New System | Old System | PUMABET | X-SAMPA | IPA | Phoneme | Notes |
 |--|--|--|--|--|--|--|
 |nj|--|--|n'|nʲ|palatalized alveolar nasal|rioplatense /ɲ/ /nj/ fusion, label as ny|
